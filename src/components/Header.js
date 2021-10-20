@@ -1,7 +1,10 @@
+import Button from "./Button"
+
 const Header = () => {
     return (
-        <header>
+        <header className="header">
         <h1>Task Manager</h1>
+        <Button color="black" text="Add"/>
         </header>
     )
 }
