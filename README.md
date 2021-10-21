@@ -1,4 +1,4 @@
-# Task Manager App
+# Task Manager App    <img src="public/favicon.ico" width="30" height="30">
 
 This Task Manager application is the first app I built using React.
 
