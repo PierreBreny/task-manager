@@ -5,7 +5,7 @@ This Task Manager application is the first app I built using React.
 ### Things I learned
 Components, props, state, hooks, working with an API and more.
 
-Note: The project is part of the [Brad Traversy course](https://www.youtube.com/watch?v=w7ejDZ8SWv8).
+Note: This project was part of the [Brad Traversy course](https://www.youtube.com/watch?v=w7ejDZ8SWv8).
 
 ## Usage
 
